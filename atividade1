@@ -1,0 +1,17 @@
+#include <stdiu.h>
+
+int main()
+{
+    int idade;
+    printf("DIgite sua idade");
+    scanf("%d",&idade);
+
+    if(idade<=12){
+        printf(" Voce e criança")
+    }else if("idade>= 12 && idade <= 17"){
+        printf(" Voce e adolescente.\n");
+    }else
+}
+return 0;
+    
+    
